@@ -1,0 +1,46 @@
+<svg width="71" height="53" viewBox="0 0 71 53" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_ddii_2_624)">
+<rect x="10.1325" y="4.89545" width="58.8487" height="43.2087" rx="3.97626" fill="#16287A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.6081 4.89545H14.1088C11.9127 4.89545 10.1325 6.67568 10.1325 8.87171V10.731L28.1887 26.5558L33.46 20.5412L15.6081 4.89545Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.1332 8.79896C10.1508 7.81334 10.5271 6.91526 11.1371 6.22967L29.7119 22.5079L28.0023 24.4587L10.1332 8.79896Z" fill="#B7311A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M63.5057 4.89545H65.0047C67.2008 4.89545 68.981 6.67568 68.981 8.87171V10.7313L50.9252 26.5558L45.6538 20.5412L63.5057 4.89545Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M68.0728 6.34227C68.6401 7.02962 68.9809 7.91085 68.9809 8.87168V8.97589L52.2671 23.5149L50.5575 21.5785L68.0728 6.34227Z" fill="#B7311A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M68.9815 41.9438V44.1277C68.9815 46.3237 67.2013 48.1039 65.0052 48.1039H63.878L45.7867 33.0402L50.911 26.8974L68.9815 41.9438Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16.5287 48.1042H14.1088C11.9127 48.1042 10.1325 46.324 10.1325 44.1279V43.1272L28.1937 27.4276L33.4598 33.3869L16.5287 48.1042Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.565 47.1847L30.6861 30.6087L32.5321 32.6923L14.7538 48.1042H14.1082C13.1409 48.1042 12.2543 47.7589 11.565 47.1847Z" fill="#B7311A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M68.9804 44.2103L51.078 28.6201L49.3652 30.5623L67.9766 46.7699C68.5846 46.0866 68.9604 45.1922 68.9804 44.2103Z" fill="#B7311A"/>
+<path d="M33.3273 4.89545H46.0514V48.1042H33.3273V4.89545Z" fill="white"/>
+<rect x="9.99994" y="33.2595" width="12.724" height="58.9812" transform="rotate(-90 9.99994 33.2595)" fill="white"/>
+<rect x="9.99994" y="30.5933" width="7.407" height="58.8592" transform="rotate(-90 9.99994 30.5933)" fill="#B11A2D"/>
+<rect x="43.3854" y="48.1041" width="7.407" height="43.2087" transform="rotate(-180 43.3854 48.1041)" fill="#B11A2D"/>
+</g>
+<defs>
+<filter id="filter0_ddii_2_624" x="0.799939" y="0.295432" width="70.2915" height="52.4089" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-1.31" dy="1.31"/>
+<feGaussianBlur stdDeviation="1.58"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2_624"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-4.6"/>
+<feGaussianBlur stdDeviation="2.3"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_2_624" result="effect2_dropShadow_2_624"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_2_624" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="2.11"/>
+<feGaussianBlur stdDeviation="1.58"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"/>
+<feBlend mode="normal" in2="shape" result="effect3_innerShadow_2_624"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-0.46"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+<feBlend mode="normal" in2="effect3_innerShadow_2_624" result="effect4_innerShadow_2_624"/>
+</filter>
+</defs>
+</svg>
