@@ -11,6 +11,7 @@
 
 <div class="global-container">
     <div class="onboarding-background">
+        <h1>Parametry id w sesji: ${sessionScope.idParams}</h1>
         <div class="onboarding-wrapper">
             <div class="onboarding-container">
                 <div class="logo-area">
