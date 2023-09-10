@@ -13,6 +13,5 @@ public class Order {
     private Integer id, tableNumber, restaurantId;
     private List<OrderedItem> orderedItems;
     private String paymentMethod;
-    private boolean billRequested;
-    private boolean waitedCalled;
+    private boolean billRequested, waiterCalled;
 }
