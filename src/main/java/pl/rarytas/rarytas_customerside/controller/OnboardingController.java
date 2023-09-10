@@ -21,7 +21,7 @@ public class OnboardingController {
 
     @GetMapping("/{token}")
     public String onboarding(@PathVariable String token, HttpSession session) {
-        session.setAttribute("idParams", onboardingService.initializeOrder(token));
+        session.setAttribute("order", onboardingService.initializeOrder(token));
         return "onboarding";
     }
 }

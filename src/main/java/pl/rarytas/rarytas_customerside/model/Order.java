@@ -2,12 +2,13 @@ package pl.rarytas.rarytas_customerside.model;
 
 import lombok.Getter;
 import lombok.Setter;
-import org.springframework.stereotype.Component;
+import lombok.ToString;
 
 import java.util.List;
 
 @Getter
 @Setter
+@ToString
 public class Order {
     private Integer id, tableNumber, restaurantId;
     private List<OrderedItem> orderedItems;
