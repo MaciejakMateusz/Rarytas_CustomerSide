@@ -1,6 +1,10 @@
 package pl.rarytas.rarytas_customerside.service.interfaces;
 
+import pl.rarytas.rarytas_customerside.model.Order;
+
+import java.util.Optional;
+
 public interface OnboardingServiceInterface {
 
-    Integer[] getIdParams(String token);
+    Optional<Order> initializeOrder(String token);
 }
