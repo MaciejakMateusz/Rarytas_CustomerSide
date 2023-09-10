@@ -8,7 +8,6 @@ import java.util.List;
 
 @Getter
 @Setter
-@Component
 public class Order {
     private Integer id, tableNumber, restaurantId;
     private List<OrderedItem> orderedItems;
