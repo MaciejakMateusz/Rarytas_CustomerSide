@@ -12,7 +12,7 @@ import java.nio.charset.StandardCharsets;
 
 @Component
 @Slf4j
-public class PostCommunicator {
+public class RestApiCommunicator {
     public void sendPostRequest(Order order) {
         try {
             URI url = new URI("http://localhost:8082/api/orders");
@@ -45,5 +45,4 @@ public class PostCommunicator {
             log.error(e.toString());
         }
     }
-
 }
