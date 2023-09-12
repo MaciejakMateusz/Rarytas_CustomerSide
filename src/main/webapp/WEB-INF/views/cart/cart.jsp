@@ -11,11 +11,12 @@
 
 <div class="global-container">
     <form:form method="POST"
-               action="/cart">
+               action="/cart"
+               modelAttribute="order">
         <form:hidden path="tableNumber"/>
+        <form:hidden path="restaurantId"/>
     </form:form>
 </div>
 
 </body>
-
 </html>
