@@ -28,6 +28,9 @@
     </div>
 </div>
 
+<script type="module" src="${pageContext.request.contextPath}/public/theme/js/fetchFunctions.js"></script>
+<script type="module" src="${pageContext.request.contextPath}/public/theme/js/menu-rendering.js"></script>
+
 </body>
 
 </html>
